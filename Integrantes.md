@@ -1,4 +1,3 @@
 # Integrantes
 
-- David Constante (github.com/DavidConstante)
-- 
+1. David Constante
