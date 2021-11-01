@@ -40,4 +40,4 @@ Para crear un fork debes iniciar sesién en GitHub y luego ingresar a la landing
 ## Como trabajar con ramas
 Flujo de trabajo.
 
-![Workflow](http://jlord.us/git-it/assets/imgs/clone.png)
+![Workflow](https://miro.medium.com/max/1400/1*fn8qxN2ehkBhnxxX1df88w.png)
